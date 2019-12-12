@@ -1,6 +1,6 @@
 # disk-monit
 
-add install-disk-monit.sh to root home directory
+add install-disk-monit.sh to root home directory \n
 chmod +x install-disk-monit.sh
 run ./install-disk-monit.sh $1 $2 $3 $4
 
