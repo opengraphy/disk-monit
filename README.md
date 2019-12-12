@@ -2,7 +2,7 @@
 
 sudo su\
 cd\
-clone https://github.com/opengraphy/disk-monit.git \
+git clone https://github.com/opengraphy/disk-monit.git \
 cd disk-monit\
 ./install-disk-monit.sh $1 $2 $3 $4\
 \
