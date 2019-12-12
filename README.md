@@ -1,7 +1,10 @@
 # disk-monit
 
-add install-disk-monit.sh to root home directory as root user\
-run ./install-disk-monit.sh $1 $2 $3 $4\
+sudo su\
+cd\
+clone https://github.com/opengraphy/disk-monit.git
+cd disk-monit\
+./install-disk-monit.sh $1 $2 $3 $4\
 \
 $1 aws_access_key_id\
 $2 aws_secret_access_key\
