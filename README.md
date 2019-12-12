@@ -1,7 +1,6 @@
 # disk-monit
 
-add install-disk-monit.sh to root home directory\
-chmod +x install-disk-monit.sh\
+add install-disk-monit.sh to root home directory as root user\
 run ./install-disk-monit.sh $1 $2 $3 $4\
 \
 $1 aws_access_key_id\
